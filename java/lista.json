@@ -1,0 +1,12 @@
+[
+	{
+		"discipline": "math",
+		"startHour": 11,
+		"startMinute": 0
+	},
+	{
+		"discipline": "biology",
+		"startHour": 12,
+		"startMinute": 15
+	}
+]
